@@ -13,8 +13,8 @@ Contents
 - [JasperAI](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more! Rated 5/5 stars in 10,000+ reviews.
 
 # Generates Art
-- [MidJourney](https://www.midjourney.com/home)
-- [LeonardoAI](https://leonardo.ai/)
+- [MidJourney](https://www.midjourney.com/home) - Generate Image by prompt
+- [LeonardoAI](https://leonardo.ai/) - Generate Image by prompt
 - [Stable Difussion](https://stablediffusionweb.com/)(Open Sources) - A latent `text-to-image` diffusion model capable of generating photo-realistic.
 - [SkyBox](https://www.blockadelabs.com/) - Experience digital alchemy with the ultimate AI-powered solution that generates stunning 360° skybox experiences from text prompts.
 - [StarryAI](https://starryai.com/) - Generate art 🎨 simply by describing what you want to see
@@ -25,8 +25,8 @@ and our Artificial Intelligence transforms your words into art.
 - [Replit](https://replit.com/) - Build software collaboratively with the power of AI, on any device, without spending a second on setup
 - [BlackboxAI](https://www.useblackbox.io/) - Code Chat & Search is built so that developers could find the best code snippets to use while building awesome products!
 - [SQL Generator](https://aihelperbot.com/)
-- GitHub Copilot
-- Tabnine
+- [GitHub Copilot](https://github.com/features/copilot) - Your AI pair programmer GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+- [Tabnine](https://www.tabnine.com/) - AI assistant that speeds up delivery and keeps your code safe.
 
 # Generates Video
 - [Synthesia](https://www.synthesia.io/) - Create professional videos in 15 minutes.
