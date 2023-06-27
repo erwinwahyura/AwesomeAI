@@ -13,6 +13,7 @@
 # Generates Art
 - [MidJourney](https://www.midjourney.com/home)
 - [LeonardoAI](https://leonardo.ai/)
+- [Stable Difussion](https://stablediffusionweb.com/) `Open Sources`
 
 # Generates Code
 - [Replit](https://replit.com/)
