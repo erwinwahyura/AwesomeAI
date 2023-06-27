@@ -16,6 +16,9 @@ Contents
 - [LeonardoAI](https://leonardo.ai/)
 - [Stable Difussion](https://stablediffusionweb.com/)(Open Sources) - A latent `text-to-image` diffusion model capable of generating photo-realistic.
 - [SkyBox](https://www.blockadelabs.com/) - Experience digital alchemy with the ultimate AI-powered solution that generates stunning 360° skybox experiences from text prompts.
+- [StarryAI](https://starryai.com/) - Generate art 🎨 simply by describing what you want to see
+and our Artificial Intelligence transforms your words into art.
+
 
 # Generates Code
 - [Replit](https://replit.com/) - Build software collaboratively with the power of AI, on any device, without spending a second on setup
@@ -30,10 +33,6 @@ Contents
 
 # Generates TikToks
 - [Fliki](https://fliki.ai/) - Turn text into videos with AI voices.
-
-# Generates Avatars 
-- [StarryAI](https://starryai.com/) - Generate art 🎨 simply by describing what you want to see
-and our Artificial Intelligence transforms your words into art.
 
 # Generates PPTs
 - [SlidesAI](https://www.slidesai.io/) - Create Presentation Slides with AI in seconds
