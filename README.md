@@ -13,10 +13,13 @@
 # Generates Art
 - [MidJourney](https://www.midjourney.com/home)
 - [LeonardoAI](https://leonardo.ai/)
-- [Stable Difussion](https://stablediffusionweb.com/) `Open Sources`
+- [Stable Difussion](https://stablediffusionweb.com/)(Open Sources) - A latent `text-to-image` diffusion model capable of generating photo-realistic.
+- [SkyBox](https://www.blockadelabs.com/) - Experience digital alchemy with the ultimate AI-powered solution that generates stunning 360° skybox experiences from text prompts.
 
 # Generates Code
-- [Replit](https://replit.com/)
+- [Replit](https://replit.com/) - Build software collaboratively with the power of AI, on any device, without spending a second on setup
+- [BlackboxAI](https://www.useblackbox.io/) - Code Chat & Search is built so that developers could find the best code snippets to use while building awesome products!
+- [SQL Generator](https://aihelperbot.com/)
 
 # Generates Video
 - [Synthesia](https://www.synthesia.io/)
