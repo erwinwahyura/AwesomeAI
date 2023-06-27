@@ -3,12 +3,13 @@
 `Let's make AI even more awesome with AwesomeAI!`
 
 # Solves Anything
-- [ChatGPT](https://chat.openai.com/) 
-- [Bard](https://bard.google.com/)
+- [ChatGPT](https://chat.openai.com/) - Allows you to have human-like conversations and much more with the chatbot
+- [Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 
 
 # Writes Anything
-- [WriteSonic](https://writesonic.com/)
+- [WriteSonic](https://writesonic.com/) - Best AI Writer for Creating
+Contents
 
 # Generates Art
 - [MidJourney](https://www.midjourney.com/home)
@@ -22,26 +23,28 @@
 - [SQL Generator](https://aihelperbot.com/)
 
 # Generates Video
-- [Synthesia](https://www.synthesia.io/)
+- [Synthesia](https://www.synthesia.io/) - Create professional videos in 15 minutes.
 
 # Generates Music
-- [Soundraw](https://soundraw.io/)
+- [Soundraw](https://soundraw.io/) - Royalty-free music, AI generated for you.
 
 # Generates TikToks
-- [Fliki](https://fliki.ai/)
+- [Fliki](https://fliki.ai/) - Turn text into videos with AI voices.
 
 # Generates Avatars 
-- [StarryAI](https://starryai.com/)
+- [StarryAI](https://starryai.com/) - Generate art 🎨 simply by describing what you want to see
+and our Artificial Intelligence transforms your words into art.
 
 # Generates PPTs
-- [SlidesAI](https://www.slidesai.io/)
+- [SlidesAI](https://www.slidesai.io/) - Create Presentation Slides with AI in seconds
 
 # Edit Pictures
-- [Remini](https://remini.ai/)
+- [Remini](https://remini.ai/) - The only photo and video enhancer you'll ever need
 
 # Edit Videos
-- [Pictory](https://pictory.ai/)
+- [Pictory](https://pictory.ai/) - Automatically create short, highly-sharable branded videos from your long form content.
 
 # Summarize Notes
-- [WordTune](https://www.wordtune.com/)
+- [WordTune](https://www.wordtune.com/) - Your thoughts in words
+Say exactly what you mean through clear, compelling and authentic writing.
 
