@@ -6,6 +6,8 @@
 - [ChatGPT](https://chat.openai.com/) - Allows you to have human-like conversations and much more with the chatbot
 - [Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
 
+# From Research To Result Reports
+- [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
 
 # Writes Anything
 - [WriteSonic](https://writesonic.com/) - Best AI Writer for Creating
