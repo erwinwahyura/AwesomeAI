@@ -4,7 +4,9 @@
 
 # Solves Anything
 - [ChatGPT](https://chat.openai.com/) - Allows you to have human-like conversations and much more with the chatbot
-- [Bard](https://bard.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
+- [Gemini](https://gemini.google.com/) - Your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.
+- [Grok](https://grok.com/) - Grok it
+- [DeepSeek](https://www.deepseek.com/) - DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
 
 # From Research To Result Reports
 - [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
