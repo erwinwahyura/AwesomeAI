@@ -8,6 +8,8 @@
 - [Grok](https://grok.com/) - Grok it
 - [DeepSeek](https://www.deepseek.com/) - DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
 - [ENRIE](https://yiyan.baidu.com/) - Baidu's New Generation Native Multimodal Foundation Model.
+- [Bolt New](https://bolt.new/) - Create stunning apps & websites by chatting with AI.
+- [Lovable](https://lovable.dev/) - Create apps and websites by chatting with AI
 
 # From Research To Result Reports
 - [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
