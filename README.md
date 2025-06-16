@@ -11,6 +11,9 @@
 - [Bolt New](https://bolt.new/) - Create stunning apps & websites by chatting with AI.
 - [Lovable](https://lovable.dev/) - Create apps and websites by chatting with AI
 
+# AI Automate
+- [n8n](https://n8n.io/) - Flexible AI workflow automation for technical teams
+
 # From Research To Result Reports
 - [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
 
