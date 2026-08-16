@@ -72,6 +72,7 @@ AI enabled, real people's voices
 
 # Edit Videos
 - [Pictory](https://pictory.ai/) - Automatically create short, highly-sharable branded videos from your long form content.
+- [videos.social](https://videos.social/?utm_source=erwinwahyura-awesomeai&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos.
 
 # Summarize Notes
 - [WordTune](https://www.wordtune.com/) - Your thoughts in words
