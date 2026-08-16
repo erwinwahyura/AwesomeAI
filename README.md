@@ -17,6 +17,7 @@
 
 # AI Automate
 - [n8n](https://n8n.io/) - Flexible AI workflow automation for technical teams
+- [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile regression tests with persistent test memory and self-healing flows.
 
 # From Research To Result Reports
 - [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
