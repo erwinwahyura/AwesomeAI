@@ -22,6 +22,7 @@
 
 # From Research To Result Reports
 - [Manus](https://manus.im/) - Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 # Writes Anything
 - [WriteSonic](https://writesonic.com/) - Best AI Writer for Creating
