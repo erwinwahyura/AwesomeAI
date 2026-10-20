@@ -27,6 +27,7 @@
 - [WriteSonic](https://writesonic.com/) - Best AI Writer for Creating
 Contents
 - [JasperAI](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more! Rated 5/5 stars in 10,000+ reviews.
+- [ImagineYourBook](https://www.imagineyourbook.com/) - Maps out a whole book first, then writes it chapter by chapter, keeping characters consistent across a series.
 
 # Generates Art
 - [MidJourney](https://www.midjourney.com/home) - Generate Image by prompt
