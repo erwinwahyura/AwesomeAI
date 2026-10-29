@@ -14,6 +14,7 @@
 
 # Website Build and Designed
 - [Relume](https://www.relume.io/) - Website designed & built faster with AI.
+- [deed.page](https://deed.page/) - Publishes an HTML file or static site from a coding agent to a public link in one API call, no account needed.
 
 # AI Automate
 - [n8n](https://n8n.io/) - Flexible AI workflow automation for technical teams
