@@ -38,6 +38,7 @@ Contents
 - [StarryAI](https://starryai.com/) - Generate art 🎨 simply by describing what you want to see
 and our Artificial Intelligence transforms your words into art.
 - [Charisma](https://charisma.ai/)(Game) - Build Conversational Characters
+- [APPLORE](https://applore.app/ai-app-icon-generator) - Generate app icons with AI, using 18,000+ real App Store icons as style references
 
 # Generates Code
 - [Replit](https://replit.com/) - Build software collaboratively with the power of AI, on any device, without spending a second on setup
