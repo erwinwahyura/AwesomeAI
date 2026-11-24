@@ -15,6 +15,7 @@
 # Website Build and Designed
 - [Relume](https://www.relume.io/) - Website designed & built faster with AI.
 - [deed.page](https://deed.page/) - Publishes an HTML file or static site from a coding agent to a public link in one API call, no account needed.
+- [Kite](https://kite.new/) - Design tool your AI agents and your team share: Claude, Cursor or Codex draw editable layers through hosted MCP in the file your team edits live. Copy frames as HTML, React or Tailwind.
 
 # AI Automate
 - [n8n](https://n8n.io/) - Flexible AI workflow automation for technical teams
